@@ -1,0 +1,57 @@
+ 
+
+ h1 {
+   padding: 20px;
+   text-align: center;
+   background-color: mediumspringgreen;
+ }
+
+  #button{
+      color: steelblue;
+      background-color: darkblue;
+      border-radius: 10px;
+      margin: 5px;
+      margin-top: 20px;
+  }
+
+  .giphy,
+   .giphyButton
+          {
+    color: black;
+    background-color:gold;
+    border-radius: 10px;
+    margin: 11px;
+
+  }
+
+
+  form{
+    margin: 20px;  
+  }
+
+  .formButton{
+    float: left;
+    margin-left: 10%;
+    background-color: mediumspringgreen;
+    border-radius: 20px;
+    padding: 10px;  
+    margin-left: 50px;
+    margin-top: 20px;
+  
+  }
+
+  #images{
+    padding: 10px;
+   
+
+  }
+
+  #button-view{
+    text-align: center; 
+
+  }
+
+  img{
+    width: 200px;
+    height: 200px;
+  }
